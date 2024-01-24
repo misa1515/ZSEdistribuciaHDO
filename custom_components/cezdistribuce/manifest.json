@@ -1,0 +1,13 @@
+{
+    "domain": "zsdistribucia",
+    "name": "Západoslovenská distribúcia",
+    "version": "0.0.1",
+    "documentation": "https://github.com/misa1515/ZSEdistibuciaHDO",
+    "issue_tracker": "https://github.com/misa1515/ZSEdistibuciaHDO/issues",
+    "dependencies": [],
+    "codeowners": ["@misa1515"],
+    "requirements": [],
+    "quality_scale": "silver",
+    "iot_class": "cloud_polling",
+    "config_flow": false
+}
