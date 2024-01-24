@@ -1,0 +1,9 @@
+{
+    "name": "Zápaoslovenská distribúcia HDO",
+    "render_readme": false,
+    "domains": [
+        "binary_sensor"
+    ],
+    "country": "SK",
+    "homeassistant": "0.001.0"
+}
